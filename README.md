@@ -11,11 +11,11 @@ This code follows the MIT Lisence.
 # Cite
 If you want to use this code, please kinkdly cite our paper
 
-@inproceedings{cao2015grarep,
-  title={Grarep: Learning graph representations with global structural information},
-  author={Cao, Shaosheng and Lu, Wei and Xu, Qiongkai},
-  booktitle={Proceedings of the 24th ACM International on Conference on Information and Knowledge Management},
-  pages={891--900},
-  year={2015},
-  organization={ACM}
+@inproceedings{cao2015grarep,<br/>
+  title={Grarep: Learning graph representations with global structural information},<br/>
+  author={Cao, Shaosheng and Lu, Wei and Xu, Qiongkai},<br/>
+  booktitle={Proceedings of the 24th ACM International on Conference on Information and Knowledge Management},<br/>
+  pages={891--900},<br/>
+  year={2015},<br/>
+  organization={ACM}<br/>
 }
