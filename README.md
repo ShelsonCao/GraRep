@@ -8,6 +8,9 @@ Source Code of GraRep version 1.0
 # Lisence
 This code follows the MIT Lisence.
 
+# GPU Version
+This is a fast re-implemented versioin [GraRep.jl](https://github.com/xgfs/GraRep.jl) using Julia language by xgfs.
+
 # Cite
 If you want to use this code, please kinkdly cite our paper
 
